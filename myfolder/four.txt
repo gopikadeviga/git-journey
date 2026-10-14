@@ -3,3 +3,5 @@ git four
 merge
 fork 
 pull request 
+remove
+delete 
