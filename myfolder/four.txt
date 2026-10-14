@@ -1,7 +1,0 @@
-git four
-4
-merge
-fork 
-pull request 
-remove
-delete 
