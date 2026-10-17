@@ -3,3 +3,4 @@ git three
 33
 3
 merge
+delete
